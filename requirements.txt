@@ -15,7 +15,7 @@ distro-info===0.18ubuntu0.18.04.1
 Django==2.2.5
 gcloud==0.17.0
 googleapis-common-protos==1.6.0
-httplib2==0.9.2
+httplib2==0.18.0
 hyperlink==17.3.1
 idna==2.6
 incremental==16.10.1
